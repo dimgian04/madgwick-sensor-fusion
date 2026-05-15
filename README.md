@@ -18,12 +18,9 @@ All filter implementations run in **real time on an Arduino Uno WiFi Rev2**, wit
 ---
 
 ## Hardware
-**Arduino Uno WiFi Rev2**
-Central processing unit, runs the Madgwick filter
-**LSM6DS3TR (onboard)**
-6-axis IMU (accelerometer + gyroscope)
-**Xsens MTi-3-5A-T**
-9-axis MARG (accelerometer + gyroscope + magnetometer)
+- **Arduino Uno WiFi Rev2** — central processing unit, runs the Madgwick filter
+- **LSM6DS3TR** (onboard Arduino) — 6-axis IMU (accelerometer + gyroscope)
+- **Xsens MTi-3-5A-T** — 9-axis MARG (accelerometer + gyroscope + magnetometer)
 
 ---
 
