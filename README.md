@@ -39,4 +39,4 @@ All filter implementations run in **real time on an Arduino Uno WiFi Rev2**, wit
 
 ## Video Demo
 
-A live demonstration of the real-time orientation viewer running on the Xsens MTi-3 MARG implementation can be viewed [here]([https://www.youtube.com/your-link-here](https://www.youtube.com/watch?v=QnyklZCOkVg))
+A live demonstration of the real-time orientation viewer running on the Xsens MTi-3 MARG implementation can be viewed [here](https://www.youtube.com/watch?v=QnyklZCOkVg).
