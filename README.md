@@ -32,7 +32,7 @@ All filter implementations run in **real time on an Arduino Uno WiFi Rev2**, wit
 - Compared the three filter configurations outputs
 - Performed systematic β tuning (convergence speed vs steady-state noise tradeoff)
 - Performed ζ tuning (gyroscope bias estimation convergence rate)
-- Investigated filter performance at 10, 25, 50, and 100 Hz update rates
+- Investigated filter performance at different update rates
 - Implemented a real-time 3D orientation viewer in MATLAB using MathWorks helper classes
 
 ---
