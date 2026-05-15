@@ -1,7 +1,7 @@
 # Real-Time IMU Sensor Fusion on a Microcontroller
 ### A Comparative Study Using Madgwick Orientation Filtering
 
-This repository contains the full implementation, experimental data, analysis scripts, and report for a real-time IMU sensor fusion project developed as part of an academic project for the **Embodied Intelligence Club** at the **University of Patras**, Greece (April 2026).
+This repository contains the full implementation, experimental data, analysis scripts, and report for a real-time IMU sensor fusion project developed as part of an academic project for the **Embodied Intelligence Club** at the **University of Patras**, Greece.
 
 ---
 
