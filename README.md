@@ -35,8 +35,3 @@ All filter implementations run in **real time on an Arduino Uno WiFi Rev2**, wit
 - Investigated filter performance at 10, 25, 50, and 100 Hz update rates
 - Implemented a real-time 3D orientation viewer in MATLAB using MathWorks helper classes
 
----
-
-## License
-
-MIT License — see `LICENSE` for details.
